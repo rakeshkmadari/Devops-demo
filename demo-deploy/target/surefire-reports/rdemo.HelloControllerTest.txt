@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: rdemo.HelloControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.749 sec <<< FAILURE! - in rdemo.HelloControllerTest
-getHello(rdemo.HelloControllerTest)  Time elapsed: 0.309 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.625 sec <<< FAILURE! - in rdemo.HelloControllerTest
+getHello(rdemo.HelloControllerTest)  Time elapsed: 0.216 sec  <<< FAILURE!
 java.lang.AssertionError: Response content
 Expected: "Greetings from Spring Boot!!!"
      but: was "Greetings from Spring Boot!"
